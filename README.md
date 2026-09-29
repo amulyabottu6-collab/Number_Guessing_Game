@@ -114,6 +114,6 @@ Some features that can be added in the future:
 
 👩‍💻 Author
 
-Amulya
+B.Amulya
 
 A beginner Python project created to practice basic Python programming and logical thinking.
